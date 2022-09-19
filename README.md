@@ -7,14 +7,15 @@ Follow the steps.
 1. Go to our official [web-portal](https://central-api-layer-73ctvrbrm-zeeshan-thedeveloper.vercel.app)
 2. Login/Sign up as developer.
     
-![image](https://user-images.githubusercontent.com/66442918/183244776-b8b7f314-0424-4c4e-aae8-e37d3d4ce7db.png)
+![image](https://user-images.githubusercontent.com/66442918/191009605-20a12cd8-b824-478a-8325-c40c9d8932a6.png)
 
 3. Then go to option: "Generate token " and select the host and validation time. And hit the generate button. For futher information about how to get connected to hosts please visite our [official integration](https://central-api-layer-73ctvrbrm-zeeshan-thedeveloper.vercel.app/Integration)
-![Unsaved Image 1](https://user-images.githubusercontent.com/66442918/183245118-baa3d4c9-fed0-4a89-98b0-39d9b7d3f297.jpg)
+
+![image](https://user-images.githubusercontent.com/66442918/191009773-9c818319-8021-474e-95dc-c82e64217898.png)
 
 4. After that you will get the following screen. Just hit the buttons and copy the accessToken, accessUrl and Secret key and store it somewhere in your application.
 
-![Unsaved Image 1](https://user-images.githubusercontent.com/66442918/183245173-19b82fb8-d6ce-4524-b0cd-60e932ee89cf.jpg)
+![image](https://user-images.githubusercontent.com/66442918/191009950-d9ef5203-33d7-4fed-9357-49412a2e2e7b.png)
 
 5. You might store them in .env file or direct in variables.
 
